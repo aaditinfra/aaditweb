@@ -17,3 +17,6 @@ git push -u origin main
 
 ## Placeholders to fill before launch
 WhatsApp Business, Instagram, office address, phone (contact section); privacy notice details; real testimonials (`TESTIMONIALS` in index.html); real project photos.
+
+## Real timelapse video (optional)
+Put a short MP4 at `assets/timelapse.mp4`. If the file exists, the site shows it instead of the illustrated 14-stage animation. Keep it under ~25 MB (compress it first).
