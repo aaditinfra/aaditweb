@@ -20,3 +20,8 @@ WhatsApp Business, Instagram, office address, phone (contact section); privacy n
 
 ## Real timelapse video (optional)
 Put a short MP4 at `assets/timelapse.mp4`. If the file exists, the site shows it instead of the illustrated 14-stage animation. Keep it under ~25 MB (compress it first).
+
+## Media
+- `assets/projects/`: real project photos. `assets/elev/`: 25 elevation designs (the viewer's lightbox opens all of them).
+- `assets/video/timelapse.mp4`: the 14-stage build time-lapse (captions in index.html follow its timing). `hero-villa.mp4` plays in the third hero slide, `process.mp4` in the "How We Work" section.
+- To swap a photo or video, replace the file keeping the same name.
